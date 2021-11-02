@@ -21,7 +21,7 @@ class Menu extends Component{
                  {
                     id: 1,
                     name:'Zucchipakoda',
-                    image: 'assets/image/zucchipakoda.pn',
+                    image: 'assets/image/zucchipakoda.png',
                     category: 'appetizer',
                     label:'',
                     price:'1.99',
@@ -32,7 +32,7 @@ class Menu extends Component{
                     name:'Vadonut',
                     image: 'assets/image/vadonut.png',
                     category: 'appetizer',
-                    label:'New',
+                    label:'New fod',
                     price:'1.99',
                     description:'A quintessential ConFusion experience, is it a vada or is it a donut?'           
                              },
