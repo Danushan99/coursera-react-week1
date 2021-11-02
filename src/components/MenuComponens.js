@@ -21,7 +21,7 @@ class Menu extends Component{
                  {
                     id: 1,
                     name:'Zucchipakoda',
-                    image: 'assets/image/zucchipakoda.png',
+                    image: 'assets/image/zucchipakoda.pn',
                     category: 'appetizer',
                     label:'',
                     price:'1.99',
