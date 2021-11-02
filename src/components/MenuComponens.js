@@ -11,7 +11,7 @@ class Menu extends Component{
             dishes:[
                 {
                     id: 0,
-                    name:'Uthappizza',
+                    name:'Uthappizz',
                     image: 'assets/image/uthappizza.png',
                     category: 'mains',
                     label:'Hot',
