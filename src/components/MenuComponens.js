@@ -75,7 +75,7 @@ class Menu extends Component{
             <div className ="container">
                 <div className ="Row">
                     <Media list>
-                        {menu}
+                        {mnu}
                     </Media>
 
                 </div>
