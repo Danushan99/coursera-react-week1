@@ -11,8 +11,8 @@ class Menu extends Component{
             dishes:[
                 {
                     id: 0,
-                    name:'Uthappizz',
-                    image: 'assets/image/uthappizza.png',
+                    name:'Pittu',
+                    image: 'assets/image/pittu.jpg',
                     category: 'mains',
                     label:'Hot',
                     price:'4.99',
