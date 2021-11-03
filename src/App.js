@@ -10,7 +10,7 @@ class App extends Component {
       <Navbar dark color ="primary">
         <div className="container">
           <NavbarBrand href="/">
-            First-React-App
+           Food Deatails Application
           </NavbarBrand>
           </div>
       </Navbar>
@@ -19,5 +19,4 @@ class App extends Component {
   );
 }
 }
-
 export default App;
