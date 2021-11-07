@@ -20,12 +20,12 @@ class Menu extends Component{
                   },
                  {
                     id: 1,
-                    name:'Zucchipakoda',
+                    name:'Pakoda',
                     image: 'assets/image/zucchipakoda.png',
                     category: 'appetizer',
                     label:'',
                     price:'1.99',
-                    description:'Deep ss Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'                  
+                    description:'Pakora is a spiced fritter originating from the Indian subcontinent, sold by street vendors and served in restaurants in South Asia and worldwide. It consists of items, often vegetables such as potatoes and onions, coated in seasoned gram flour batter and deep fried'                  
                       },
                  {
                     id: 2,
@@ -38,12 +38,12 @@ class Menu extends Component{
                              },
                  {
                     id: 3,
-                    name:'ElaiCheese Cake',
+                    name:'Cheese Cake',
                     image: 'assets/image/elaicheesecake.png',
                     category: 'dessert',
                     label:'',
                     price:'2.99',
-                    description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'                        }
+                    description:'Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar. If there is a bottom layer, it most often consists of a crust or base made from crushed cookies, graham crackers, pastry, or sometimes sponge cake.'                        }
 
             ],
         };
