@@ -29,13 +29,12 @@ class Menu extends Component{
                       },
                  {
                     id: 2,
-                    name:'Vadonut',
+                    name:'Vadai',
                     image: 'assets/image/vadonut.png',
                     category: 'appetizer',
-                    
                     label:'New fod',
                     price:'1.99',
-                    description:'A quintessential ConFusion , is it a vada or is it a donut?'           
+                    description:'Vada or bada is a category of savoury fried snacks from India. Different types of vadas can be described variously as fritters, cutlets, doughnuts, or dumplings. Alternative names for this food include wada, vade, vadai, wadeh and bara. In North India and Pakistan, Bhalla is a similar food.'           
                              },
                  {
                     id: 3,
