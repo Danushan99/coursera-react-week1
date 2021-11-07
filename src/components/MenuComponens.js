@@ -16,35 +16,34 @@ class Menu extends Component{
                     category: 'mains',
                     label:'New',
                     price:'Rs.200',
-                    description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'
+                    description:'Puttu is a breakfast dish eaten in the South Indian states of Kerala, Tamil Nadu and parts of Karnataka, as well as Sri Lanka. Puttu means "portioned" in Tamil and Malayalam. It is made of steamed cylinders of ground rice layered with coconut shavings, sometimes with a sweet or savory filling on the inside.'
                   },
                  {
                     id: 1,
-                    name:'Zucchipakoda',
+                    name:'Pakoda',
                     image: 'assets/image/zucchipakoda.png',
                     category: 'appetizer',
                     label:'',
                     price:'1.99',
-                    description:'Deep ss Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce'                  
+                    description:'Pakora is a spiced fritter originating from the Indian subcontinent, sold by street vendors and served in restaurants in South Asia and worldwide. It consists of items, often vegetables such as potatoes and onions, coated in seasoned gram flour batter and deep fried'                  
                       },
                  {
                     id: 2,
-                    name:'Vadonut',
+                    name:'Vadai',
                     image: 'assets/image/vadonut.png',
                     category: 'appetizer',
-                    
                     label:'New fod',
                     price:'1.99',
-                    description:'A quintessential ConFusion , is it a vada or is it a donut?'           
+                    description:'Vada or bada is a category of savoury fried snacks from India. Different types of vadas can be described variously as fritters, cutlets, doughnuts, or dumplings. Alternative names for this food include wada, vade, vadai, wadeh and bara. In North India and Pakistan, Bhalla is a similar food.'           
                              },
                  {
                     id: 3,
-                    name:'ElaiCheese Cake',
+                    name:'Cheese Cake',
                     image: 'assets/image/elaicheesecake.png',
                     category: 'new desert',
                     label:'',
                     price:'2.99',
-                    description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'                        }
+                    description:'Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar. If there is a bottom layer, it most often consists of a crust or base made from crushed cookies, graham crackers, pastry, or sometimes sponge cake.'                        }
 
             ],
         };
