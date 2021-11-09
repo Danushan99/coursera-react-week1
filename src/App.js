@@ -12,6 +12,7 @@ class App extends Component {
           <NavbarBrand href="/">
            Food Application
           </NavbarBrand>
+          
           </div>
       </Navbar>
       <Menu/>
