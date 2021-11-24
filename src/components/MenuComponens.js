@@ -1,4 +1,3 @@
-
 import React,{ Component } from 'react';
 import {Media} from 'reactstrap'
 
@@ -76,7 +75,6 @@ class Menu extends Component{
                     <Media list>
                         {menu}
                     </Media>
-
                 </div>
             </div>
             
