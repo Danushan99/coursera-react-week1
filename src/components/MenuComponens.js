@@ -9,7 +9,7 @@ class Menu extends Component{
         this.state ={
     }}
     render(){
-        const menu =this.props.dishes.map((dish) => {
+        const menu =this.props.dishes.map((dish) =>{
         return (
             <div key={dish.id} className="col-12 mt-5">
                 <Media tag="li">
@@ -26,7 +26,6 @@ class Menu extends Component{
             </div>
         );
         });
-
         return(
             <div className ="container">
                 <div className ="Row">
